@@ -9,4 +9,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Forhad-Hossain-Hridoy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Hossain-Hridoy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Forhad-Hossain-Hridoy&label=Profile%20views&color=0bd074&style=flat" alt="Forhad-Hossain-Hridoy" /> </p>
 
